@@ -1,0 +1,4 @@
+{
+	"appService.defaultWebAppToDeploy": "/subscriptions/0f9ced50-a31f-4042-88b1-e5a7c5f79125/resourceGroups/prahaanaa/providers/Microsoft.Web/sites/prahaanaa",
+	"appService.deploySubpath": ""
+}
